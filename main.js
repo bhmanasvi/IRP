@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/214s2L_Az/
